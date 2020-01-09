@@ -8,6 +8,9 @@ fgfgfg vfgfg
 fdkjfhg mnfjd kjfdjf
 flodkfdokgf
 i just want to say that i want to call you 
+<!-- new function -->
+hi ali how are you ?
+are you realy want to learn git hub ....
 <body>
 </body>
 </html>
